@@ -1,0 +1,19 @@
+<!-- Links -->
+
+<!-- Buttons and code -->
+<!-- https://developer.paypal.com/demo/checkout/#/pattern/client -->
+
+
+<!-- Paypall -->
+<!-- Create business and buer account -->
+<!-- Create app for business account -->
+<!-- Add clinet-id in code -->
+<!-- https://developer.paypal.com/developer/accounts/ -->
+
+<!-- Sandbox accounts -->
+<!-- https://www.sandbox.paypal.com/gr/home -->
+
+
+<!-- Popups settings conf -->
+<!-- SECURE_CROSS_ORIGIN_OPENER_POLICY = 'same-origin-allow-popups'
+ -->
